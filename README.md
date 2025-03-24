@@ -1,1 +1,2 @@
-# 24f3100071-cs1102-linux-lab
+# About Me
+I am a student at IITM. I love Linux
